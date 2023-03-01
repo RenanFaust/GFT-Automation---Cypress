@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cypress": "^7.7.0"
+  },
+  "name": "gft-automation---cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open",
+    "cy:run": "cypress run"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
